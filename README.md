@@ -1,4 +1,4 @@
-# Jogo Batalha Naval em C
+# Jogo: Batalha Naval em C
 
 Jogo de batalha naval simples, desenvolvido na linguagem C.
 
